@@ -16,7 +16,7 @@ const ContactPage = () => {
         <section class="contact-info">
             <h3>Email Adress</h3>
             <a href='mailto: aleramirez201@gmail.com'>
-             aleramirez201@gmail.com
+             alexramirez.webdev@gmail.com
             </a>
         </section>
         <section class="contact-info">
