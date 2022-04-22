@@ -4,9 +4,9 @@ const Project = () => {
 
         <section id="Projects" class="main-info">
             <h2>Projects</h2>
-            <h3>Internation Travel Helper</h3>
+            <h3>International Travel Helper</h3>
           <p className='section-text'>
-          This website assists new as well as frequent travellers in finding the best places to travel internationally. 
+          This website assists new and frequent travellers in finding the best places to travel internationally. 
           It will show you areas where someone may not have originally thought of as a great place to travel.
           </p>
           <div className='technologies'>
@@ -40,7 +40,7 @@ const Project = () => {
           </div>     
           <h3>Tech Blog</h3>
           <p className='section-text'>
-          This project allows users the to make a blog and be able to post important info about tech
+          This project allows users the ability to make a blog and be able to post important info about tech
           </p>
           <div className='technologies'>
             <p>Handlebars</p>

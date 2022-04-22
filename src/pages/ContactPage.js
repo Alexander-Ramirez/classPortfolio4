@@ -27,8 +27,8 @@ const ContactPage = () => {
         </section>
         <section class="contact-info">
             <h3>LinkedIn</h3>
-            <a href='https://www.linkedin.com/in/alexander-ramirez-b44445224/' target="_blank" rel="noopener noreferrer">
-             Linkedin.com
+            <a href='https://www.linkedin.com/in/alexander-ramirez98/' target="_blank" rel="noopener noreferrer">
+             https://www.linkedin.com/<br></br>in/alexander-ramirez98/
             </a>
         </section>
     </content>

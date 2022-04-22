@@ -1,44 +1,22 @@
 const AboutPage = () => {
     return (
         <main>
-        <section id="About-Me" class="main-info">
+          <section id="About-Me" class="main-info">
             <h2>About Me</h2>
             <p>
-            Hello my name is Alex. 
+            Hello my name is Alexander Ramirez. 
             <br />
-            I am a Front End Web Developer.
-            <br />
-            I finished a Full Stack Coding Bootcamp through SMU and with the skills and technologies that i have
-            learned I can say I am fully confident in my skills to become a Front End Developer.
+            I am a Front End Web Developer with a certificate in Full Stack Web Development from 
+            Southern Methodist University with a background in customer support, team driven activities and 
+            Spanish speaking abilities. With skills gained in HTML5, CSS3, JavaScript, jQuery, MySQL Node, SQL, 
+            React, Express, GitHub, Heroku, Bootstrap, and Handlebars to name a few. With the ability to apply my 
+            customer service background to work as a team or independently in order to execute projects from 
+            conception to completion. I’m excited to leverage my skills as part of a fast-paced, 
+            quality-driven team to build better experiences on the web.
             <br />
             </p>
-            <div className='technologies'>
-                <p>Here are a few technologies I've been working with:</p>
-            <div className='single-technology'>
-              <p>HTML</p>
-            </div>
-            <div className='single-technology'>
-              <p>CSS</p>
-            </div>
-            <div className='single-technology'>
-              <p>JavaScript</p>
-            </div>
-            <div className='single-technology'>
-              <p>React</p>
-            </div>
-            <div className='single-technology'>
-              <p>MySQL</p>
-            </div>
-            <div className='single-technology'>
-              <p>Node.js</p>
-            </div>
-            <div className='single-technology'>
-              <p>HandleBars</p>
-            </div>
-          </div>
-        </section>
+          </section>
         </main>
-
     );
 };
 
